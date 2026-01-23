@@ -1,0 +1,90 @@
+{
+    "inputs":[
+{
+    "orderId": 1001,
+    "customerName": "John Smith",
+    "product": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 850,
+    "totalSales": 850,
+    "region": "North"
+  },
+  {
+
+    "date": "2025-01-06",
+    "customerName": "Sarah Lee",
+    "product": "Mouse",
+    "category": "Accessories",
+    "quantity": 2,
+    "unitPrice": 25,
+    "totalSales": 50,
+    "region": "East"
+  },
+  {
+    "orderId": 1003,
+    "date": "2025-01-06",
+    "customerName": "Michael Brown",
+    "product": "Keyboard",
+    "category": "Accessories",
+    "quantity": 1,
+    "unitPrice": 45,
+    "totalSales": 45,
+    "region": "West"
+  },
+  {
+    "orderId": 1004,
+    "date": "2025-01-07",
+    "customerName": "Emma Wilson",
+    "product": "Monitor",
+    "category": "Electronics",
+    "quantity": 2,
+    "unitPrice": 200,
+    "totalSales": 400,
+    "region": "South"
+  },
+  {
+    "orderId": 1005,
+    "date": "2025-01-08",
+    "customerName": "David Clark",
+    "product": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 900,
+    "totalSales": 900,
+    "region": "North"
+  },
+  {
+    "orderId": 1006,
+    "date": "2025-01-08",
+    "customerName": "Olivia Hall",
+    "product": "Headphones",
+    "category": "Accessories",
+    "quantity": 3,
+    "unitPrice": 60,
+    "totalSales": 180,
+    "region": "East"
+  },
+  {
+    "orderId": 1007,
+    "date": "2025-01-09",
+    "customerName": "James Lewis",
+    "product": "Printer",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 150,
+    "totalSales": 150,
+    "region": "West"
+  },
+  {
+    "orderId": 1111,
+    "date": "2025-01-10",
+    "customerName": "Sophia Young",
+    "product": "Mouse",
+    "category": "Accessories",
+    "quantity": 4,
+    "unitPrice": 25,
+    "totalSales": 100,
+    "region": "South"
+  }
+]}
