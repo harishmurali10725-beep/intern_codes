@@ -5,7 +5,7 @@ import Third from './Third'
 function App() {
   return (
     <div className="App">
-      <First />
+      <First brand="mercedes" />
       <Second />
       <Third />
     </div>

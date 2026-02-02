@@ -1,8 +1,8 @@
 import React from 'react'
 
-const First = () => {
+const First = (props) => {
   return (
-    <h2>first is the first component</h2>
+    <h2>first is the firs component {props.brand}</h2>
   )
 }
 
