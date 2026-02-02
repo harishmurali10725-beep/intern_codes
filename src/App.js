@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <First brand="mercedes" />
-      <Second />
+      <Second name = "mitsubishi"/>
       <Third />
     </div>
   );

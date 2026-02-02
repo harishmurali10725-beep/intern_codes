@@ -1,7 +1,7 @@
 
-const Second = () => {
+const Second = (props) => {
   return (
-    <h1>second is 2nd component</h1>
+    <h1>second is 2nd component {props.name}</h1>
   )
 }
 
